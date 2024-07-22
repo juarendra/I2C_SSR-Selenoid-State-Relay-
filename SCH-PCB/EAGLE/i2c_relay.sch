@@ -1227,25 +1227,25 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/ESR03EZPJ103.
 <part name="R16" library="ERA-3AED102V" deviceset="ERA-3AED102V" device="" override_package3d_urn="urn:adsk.eagle:package:44414941/2" override_package_urn="urn:adsk.eagle:footprint:44414942/1" value="1k"/>
 <part name="P+9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="GND9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="U$1" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$2" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$3" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$4" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$5" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$6" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$7" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$8" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$9" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$10" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
-<part name="U$11" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device=""/>
+<part name="U$1" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948913/3" override_package_urn="urn:adsk.eagle:footprint:44948914/1"/>
+<part name="U$2" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948916/2" override_package_urn="urn:adsk.eagle:footprint:44948917/1"/>
+<part name="U$3" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948920/2" override_package_urn="urn:adsk.eagle:footprint:44948921/1"/>
+<part name="U$4" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948927/2" override_package_urn="urn:adsk.eagle:footprint:44948928/1"/>
+<part name="U$5" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948929/2" override_package_urn="urn:adsk.eagle:footprint:44948930/1"/>
+<part name="U$6" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948932/2" override_package_urn="urn:adsk.eagle:footprint:44948933/1"/>
+<part name="U$7" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948936/2" override_package_urn="urn:adsk.eagle:footprint:44948937/1"/>
+<part name="U$8" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948934/2" override_package_urn="urn:adsk.eagle:footprint:44948935/1"/>
+<part name="U$9" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948942/2" override_package_urn="urn:adsk.eagle:footprint:44948943/1"/>
+<part name="U$10" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948940/2" override_package_urn="urn:adsk.eagle:footprint:44948941/1"/>
+<part name="U$11" library="KF301-2P-Terminal" deviceset="TERMINAL_2P" device="" override_package3d_urn="urn:adsk.eagle:package:44948938/2" override_package_urn="urn:adsk.eagle:footprint:44948939/1"/>
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="P+11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
-<part name="A0" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP2E" device="" package3d_urn="urn:adsk.eagle:package:15452/1"/>
-<part name="A1" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP2E" device="" package3d_urn="urn:adsk.eagle:package:15452/1"/>
-<part name="A2" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP2E" device="" package3d_urn="urn:adsk.eagle:package:15452/1"/>
-<part name="SDA_PULLUP" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP1E" device="" package3d_urn="urn:adsk.eagle:package:15455/1"/>
-<part name="SCL_PULLUP" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP1E" device="" package3d_urn="urn:adsk.eagle:package:15455/1"/>
+<part name="A0" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP2E" device="" package3d_urn="urn:adsk.eagle:package:15452/1" override_package3d_urn="urn:adsk.eagle:package:44948984/2" override_package_urn="urn:adsk.eagle:footprint:15390/1"/>
+<part name="A1" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP2E" device="" package3d_urn="urn:adsk.eagle:package:15452/1" override_package3d_urn="urn:adsk.eagle:package:44948944/2" override_package_urn="urn:adsk.eagle:footprint:15390/1"/>
+<part name="A2" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP2E" device="" package3d_urn="urn:adsk.eagle:package:15452/1" override_package3d_urn="urn:adsk.eagle:package:44948983/2" override_package_urn="urn:adsk.eagle:footprint:15390/1"/>
+<part name="SDA_PULLUP" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP1E" device="" package3d_urn="urn:adsk.eagle:package:15455/1" override_package3d_urn="urn:adsk.eagle:package:44948986/2" override_package_urn="urn:adsk.eagle:footprint:15398/1"/>
+<part name="SCL_PULLUP" library="jumper" library_urn="urn:adsk.eagle:library:252" deviceset="JP1E" device="" package3d_urn="urn:adsk.eagle:package:15455/1" override_package3d_urn="urn:adsk.eagle:package:44948987/2" override_package_urn="urn:adsk.eagle:footprint:15398/1"/>
 <part name="P+12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="P+13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="P+14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
